@@ -1,0 +1,6 @@
+pedido_id,cliente,valor,data
+1,Ana,100,2025-01-01
+2,Bruno,250,2025-01-02
+3,Carlos,50,2025-01-02
+4,Ana,75,2025-01-03
+5,Bruno,200,2025-01-03
